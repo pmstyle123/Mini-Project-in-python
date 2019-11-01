@@ -1,9 +1,7 @@
 #Created By Piyush Mishra
-#Version :0
 import random
 import turtle 
 import sys
-
 def createA():
 	a = turtle.Turtle()
 	
